@@ -25,5 +25,4 @@ for (index = 0; index < size; index++)
 array[index] = c;
 
 return (array);
-
 }
