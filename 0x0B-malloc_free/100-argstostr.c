@@ -25,7 +25,6 @@ return (len);
 *
 *Return: number of words
 */
-
 int num_words(char *str)
 {
 int i = 0, words = 0;
