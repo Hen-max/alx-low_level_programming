@@ -16,5 +16,5 @@ for (i = 0; i < index && head != NULL; i++)
 head = head->next;
 }
 
-head = head->next;
+return (head);
 }
